@@ -54,7 +54,7 @@ Target: Close the most dangerous gaps that require no cost or new tooling.
 
 | Action | Asset | CSF Subcategory | Effort | Status |
 |---|---|---|---|---|
-| Set carrier account PIN | Mint Mobile | PR.AA-01 | 10 min | Pending |
+| Set carrier account PIN | Mobile carrier | PR.AA-01 | 10 min | Pending |
 | Enable number-lock / port-out protection | Mint Mobile | PR.AA-03 | 10 min | Pending |
 | Enable SIM PIN on iPhone | eSIM profile | PR.PS-01 | 5 min | Pending |
 
@@ -78,7 +78,7 @@ Target: Close the most dangerous gaps that require no cost or new tooling.
 
 | Action | Asset | CSF Subcategory | Effort | Status |
 |---|---|---|---|---|
-| Enable Chase Bank login alerts | Primary US bank | DE.CM-03 | 3 min | Pending |
+| Enable  Chase Bank alerts | Primary US bank | DE.CM-03 | 3 min | Pending |
 | Save Google Account backup codes offline | Google Account | PR.AA-01 | 5 min | Pending |
 
 **Phase 1 estimated total time: ~3 hours**
