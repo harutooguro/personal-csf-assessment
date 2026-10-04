@@ -355,9 +355,9 @@ This inventory completes the **Identify (ID.AM)** phase. The next phase uses it 
 
 | Phase | Deliverable | Focus |
 |---|---|---|
-| **Next** | `02-current-profile.md` | Assess current controls for each Critical and High asset against CSF 2.0 **Protect (PR)** subcategories — primarily PR.AA (authentication), PR.DS (data security), and PR.IR (infrastructure resilience). |
-| Then | `03-target-profile.md` | Define the target state and a prioritized gap list. |
-| Then | `04-remediation-plan.md` | Actions, owners (me), and timeline, starting with the Key Findings above. |
+| **Next** | `02-current-state-assessment-v2.xlsx` | Assess current controls for each Critical and High asset against CSF 2.0 **Protect (PR)** subcategories — primarily PR.AA (authentication), PR.DS (data security), and PR.IR (infrastructure resilience). |
+| Then | `03-remediation-plan.md` | Define the target state and a prioritized gap list. |
+| Then | `personal-security-policy.md` | Actions, owners (me), and timeline, starting with the Key Findings above. |
 
 ### Immediate carry-overs from this inventory
 
