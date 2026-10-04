@@ -1,6 +1,6 @@
 ## Overview
 Applied NIST Cybersecurity Framework 2.0 to my personal IT environment 
-as a hands-on learning project — identifying 60 assets across hardware, 
+as a hands-on learning project — identifying 50 assets across hardware, 
 accounts, and data, and documenting gaps to remediate.
 
 ## Motivation
